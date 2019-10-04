@@ -13,6 +13,7 @@ import java.util.Queue;
 // any vertex passed as an argument to a method is in this graph.
 //----------------------------------------------------------------------------
 
+//edited 10/4/19
 
 public class WeightedGraph<T> implements WeightedGraphInterface<T>
 {
